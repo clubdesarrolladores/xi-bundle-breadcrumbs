@@ -17,18 +17,18 @@
         }
     ],
     "require": {
-        "symfony/framework-bundle": "2.1.*",
-        "symfony/locale": "2.1.*",
-        "symfony/twig-bundle": "2.1.*",
-        "symfony/yaml": "2.1.*"
+        "symfony/framework-bundle": "2.2.*",
+        "symfony/locale": "2.2.*",
+        "symfony/twig-bundle": "2.2.*",
+        "symfony/yaml": "2.2.*"
     },
     "require-dev": {
         "besimple/i18n-routing-bundle": "dev-master",
-        "symfony/browser-kit": "2.1.*",
-        "symfony/class-loader": "2.1.*",
-        "symfony/css-selector": "2.1.*",
-        "symfony/finder": "2.1.*",
-        "symfony/form": "2.1.*"
+        "symfony/browser-kit": "2.2.*",
+        "symfony/class-loader": "2.2.*",
+        "symfony/css-selector": "2.2.*",
+        "symfony/finder": "2.2.*",
+        "symfony/form": "2.2.*"
     },
     "suggest": {
         "besimple/i18n-routing-bundle": "Enables internationalised routes and breaadcrumbs."
